@@ -12,8 +12,6 @@ Our goal is to predict the winner and point differential of NFL games based on h
 
 [Play by Play Data 2](https://github.com/ryurko/nflscrapR-data)
 
-(include our GitHub link)
-
 So far we have three different groups of football data we are working with: all play-by-play data, season offense/defense data (passing yard avg, total tackles, total sacks, etc.), and weekly game data (point scored, field goals made, touchdowns made, third downs converted, etc.). We will need to determine the most relevant features that will be most important to develop the model as well as find appropriate weights for these variables in order to optimize our outcome. We will start by cleaning up all of the data for analysis before deciding which statistical models will be most appropriate to best predict the winner and point differentials of a football game. In order for our model to be considered effective, it would need to predict football game spreads with a minimum of 55% accuracy, so this will be our outcome goal. For simple win/lose prediction we would like to see our model predict at least 75% of games correctly. 
 
 ### **Project Value**
