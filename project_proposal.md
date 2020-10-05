@@ -7,7 +7,9 @@ Our goal is to predict the winner and point differential of NFL games based on h
 
 ### **Datasets**
 [Season and game data](https://www.pro-football-reference.com/years/2019/opp.htm)
+
 [Play by Play Data 1](https://github.com/ryurko/nflscrapR-data/blob/master/play_by_play_data/regular_season/reg_pbp_2019.csv)
+
 [Play by Play Data 2](https://github.com/ryurko/nflscrapR-data)
 
 (include our GitHub link)
